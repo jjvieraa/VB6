@@ -1,0 +1,13 @@
+Línea 218: la clase TabDlg.SSTab del control SSTab1 no era una clase de control cargada.
+Línea 362: la clase MSMask.MaskEdBox del control Fech_ing no era una clase de control cargada.
+Línea 389: la clase MSMask.MaskEdBox del control mskDepFechNac no era una clase de control cargada.
+Línea 442: la clase MSMask.MaskEdBox del control DepLimite no era una clase de control cargada.
+Línea 455: la clase MSMask.MaskEdBox del control txtdepci no era una clase de control cargada.
+Línea 519: la clase MSDataGridLib.DataGrid del control DataGrid1 no era una clase de control cargada.
+Línea 891: la clase MSMask.MaskEdBox del control Fech_nac no era una clase de control cargada.
+Línea 948: la clase MSMask.MaskEdBox del control ci no era una clase de control cargada.
+Línea 970: la clase MSMask.MaskEdBox del control tel no era una clase de control cargada.
+Línea 1057: la clase MSMask.MaskEdBox del control NroSoc no era una clase de control cargada.
+Línea 1080: la clase MSMask.MaskEdBox del control NroCob no era una clase de control cargada.
+Línea 1189: la clase MSAdodcLib.Adodc del control Adocat no era una clase de control cargada.
+Línea 1236: la clase MSAdodcLib.Adodc del control Adoestciv no era una clase de control cargada.
